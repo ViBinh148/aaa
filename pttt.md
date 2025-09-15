@@ -1,17 +1,3 @@
-*   **Giao diện 3D:** Sử dụng CSS để tạo hiệu ứng "thẻ nổi" (floating card) 3D đẹp mắt, tương tác khi di chuột.
-*   **Ngân hàng câu hỏi:** Tích hợp sẵn một số câu hỏi trắc nghiệm về chủ đề.
-*   **Nút "Tạo đề mới":** Mỗi lần nhấn nút, một câu hỏi ngẫu nhiên từ ngân hàng sẽ được chọn và các đáp án cũng được xáo trộn để tránh học vẹt.
-*   **Hiển thị công thức toán học:** Sử dụng thư viện KaTeX để hiển thị các công thức toán học một cách chuyên nghiệp và sắc nét.
-*   **Kiểm tra và Giải thích:** Sau khi nộp bài, ứng dụng sẽ cho biết câu trả lời đúng hay sai và cung cấp lời giải chi tiết cho câu hỏi đó.
-*   **Tương thích:** Hoạt động tốt trên hầu hết các trình duyệt hiện đại.
-
-### **Cách sử dụng**
-
-Bạn chỉ cần tạo 3 file sau trong cùng một thư mục và mở file `index.html` bằng trình duyệt của mình.
-
-#### **1. File `index.html` (Cấu trúc trang web)**
-
-```html
 <!DOCTYPE html>
 <html lang="vi">
 <head>
